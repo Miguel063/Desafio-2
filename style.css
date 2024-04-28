@@ -1,0 +1,49 @@
+header{
+    background-color: crimson;
+    border: rgb(47, 47, 47) solid 10px;
+ 
+}
+.menu{
+    font-size: 20px;
+    font-family: Arial, sans-serif
+}
+.slogan{
+    font-size: 30px;
+    display: flex;
+    gap: 5px;
+    font-family: Impact, sans-serif
+}
+main{ 
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, serif;
+    border: rgb(47, 47, 47) solid 5px;
+}
+.servicios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+text-align: center;
+}
+.vehiculos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    text-align: center;
+}
+.acerca{
+    text-align: justify;
+}
+.enlaces{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    flex-direction: row;
+    text-align: center;
+    
+}
+footer{
+    background-color: crimson;
+    border: rgb(47, 47, 47) solid 5px;
+}
